@@ -18,11 +18,15 @@ Example: In the URL `https://www.cloudflare.com/learning/`, the part **cloudflar
 
 Domain names are structured in a hierarchy, read from right to left, moving from the most general to the most specific category.
 
-    Top-Level Domain (TLD): This is the most general part, found to the right of the last dot. It includes generic TLDs (gTLDs) like .com, .org, .net, and country-code TLDs (ccTLDs) like .uk, .jp, or .tr.
+    Top-Level Domain (TLD): This is the most general part, found to the right of the last dot.  
+    It includes generic TLDs (gTLDs) like .com, .org, .net, and country-code TLDs (ccTLDs) like .uk, .jp, or .tr.
 
-    Second-Level Domain (2LD): This is the unique, descriptive name you choose, located directly to the left of the TLD. In google.com, the word 'google' is the second-level domain.
+    Second-Level Domain (2LD): This is the unique, descriptive name you choose,  
+    located directly to the left of the TLD. In google.com, the word 'google' is the second-level domain.  
 
-    Third-Level Domain (3LD) or Subdomain: Sometimes, an additional part is added to the left of the 2LD. For instance, in google.co.uk, the 'co' indicates a company (this is the 2LD in a ccTLD structure), and 'google' is actually the third-level domain. The 'www' you often see is also a common subdomain (e.g., www.).
+    Third-Level Domain (3LD) or Subdomain: Sometimes, an additional part is added to the left of the 2LD. 
+    For instance, in google.co.uk, the 'co' indicates a company (this is the 2LD in a ccTLD structure), 
+    and 'google' is actually the third-level domain. The 'www' you often see is also a common subdomain (e.g., www.).  
 
 ## How to Get and Keep a Domain Name
 
@@ -30,13 +34,17 @@ You can't buy a domain name forever; you lease it for a period of time through a
 
 Here are some critical things to know about managing them:
 
-    Domain Security & Registrars: Choosing an honest registrar is vital. Unethical ones may let your domain expire and immediately buy it to sell it back to you at a huge profit.
+    Domain Security & Registrars: Choosing an honest registrar is vital. Unethical ones 
+    may let your domain expire and immediately buy it to sell it back to you at a huge profit.
 
-    Domain Squatting: This is the bad-faith practice of registering a domain name you intend to resell to the rightful trademark owner or use for malicious purposes.
+    Domain Squatting: This is the bad-faith practice of registering a domain name 
+    you intend to resell to the rightful trademark owner or use for malicious purposes.
 
-    Domain Privacy: When you register a domain, your contact info is typically public in the WHOIS database. Domain privacy services conceal this info to protect you from spam and harassment.
+    Domain Privacy: When you register a domain, your contact info is typically public in the WHOIS database.
+    Domain privacy services conceal this info to protect you from spam and harassment.
 
-    Premium & Expired Domains: Some domains are considered "premium" and cost much more due to their high marketing value or simplicity. When a domain expires, it can be renewed, auctioned off, or become a target for squatters.
+    Premium & Expired Domains: Some domains are considered "premium" and cost much more due to their 
+    high marketing value or simplicity. When a domain expires, it can be renewed, auctioned off, or become a target for squatters.
 
 In short, a domain name is the cornerstone of your online identity. It’s a simple concept powered by a complex global system (DNS), and choosing a good registrar is your first and most important step in protecting that identity.
 
