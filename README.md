@@ -10,8 +10,8 @@
 | Topic | Status | Start Date | Finish Date | Notes |
 |-------|--------|------------|-------------|-------|
 | **How does the internet work?** | ✅ Completed | 09.02.2026 | 09.02.2026 | [Internet Basics](./notes/01-internet-basics.md) |
-| **What is HTTP?** | ✅ In Progress | 10.02.2026 | 10.02.2026 | [HTTP Protocol](./notes/02-http-protocol.md) |
-| **What is Domain Name?** | 🔴 Not Started | xx.xx.xx | xx.xx.xx | [Domain Names](./notes/03-domain-names.md) |
+| **What is HTTP?** | ✅ Completed  | 10.02.2026 | 10.02.2026 | [HTTP Protocol](./notes/02-http-protocol.md) |
+| **What is Domain Name?** | ✅ Completed  | 11.02.2026 | 11.02.2026 | [Domain Names](./notes/03-domain-names.md) |
 | **What is hosting?** | 🔴 Not Started | xx.xx.xx | xx.xx.xx | [Hosting Types](./notes/04-hosting-types.md) |
 | **DNS and how it works?** | 🔴 Not Started | xx.xx.xx | xx.xx.xx | [DNS System](./notes/05-dns-system.md) |
 | **Browsers and how they work?** | 🔴 Not Started | xx.xx.xx | xx.xx.xx | [Browser Internals](./notes/06-browser-internals.md) |

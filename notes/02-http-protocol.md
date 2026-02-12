@@ -66,3 +66,6 @@ The server’s reply contains the following:
 
 Because HTTP is the gateway to almost every modern application, it is a prime target for attacks.
 **DDoS attacks** can be launched over HTTP by flooding a server with huge volumes of seemingly legitimate `GET` or `POST` requests. The server spends all its resources trying to respond to these fake requests, causing it to crash or become unavailable to real users. Because these attacks look like normal traffic, they are classified as **Layer 7 (Application Layer)** attacks.
+
+**Sources:**  
+- https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/ 
