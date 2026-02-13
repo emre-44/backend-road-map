@@ -26,7 +26,7 @@ It also covers common DNS errors without leaving them as cryptic code:
     NXDOMAIN: The domain doesn’t exist. Typo? Expired?
 
     NO_INTERNET: The domain exists, but you can’t reach the DNS server. 
-    Check your connection.
+     Check your connection.
 
     BAD_CONFIG: Your DNS settings are misconfigured.
 

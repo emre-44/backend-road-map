@@ -3,7 +3,7 @@
 ---
 
 ## 📚 1. INTRODUCTION TO HOW THE INTERNET WORKS
-**Overall Status:** 🟡 In Progress | **Start:** 09.02.2026 | **Estimated Finish:** xx.xx.xx
+**Overall Status:** ✅ Completed | **Start:** 09.02.2026 | **Estimated Finish:** 13.02.2026
 
 ### 📋 Topic Progress Table
 
@@ -14,7 +14,7 @@
 | **What is Domain Name?** | ✅ Completed  | 11.02.2026 | 11.02.2026 | [Domain Names](./notes/03-domain-names.md) |
 | **What is hosting?** | ✅ Completed | 12.02.2026 | 12.02.2026 | [Hosting Types](./notes/04-hosting-types.md) |
 | **DNS and how it works?** | ✅ Completed | 12.02.2026 | 12.02.2026| [DNS System](./notes/05-dns-system.md) |
-| **Browsers and how they work?** | 🔴 Not Started | xx.xx.xx | xx.xx.xx | [Browser Internals](./notes/06-browser-internals.md) |
+| **Browsers and how they work?** | ✅ Completedd | 13.02.2026 | 13.02.2026 | [Browser Internals](./notes/06-browser-internals.md) |
 
 
 ## 🌐 2. FRONT END BASICS
