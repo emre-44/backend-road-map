@@ -14,18 +14,18 @@
 | **What is Domain Name?** | ✅ Completed  | 11.02.2026 | 11.02.2026 | [Domain Names](./notes/03-domain-names.md) |
 | **What is hosting?** | ✅ Completed | 12.02.2026 | 12.02.2026 | [Hosting Types](./notes/04-hosting-types.md) |
 | **DNS and how it works?** | ✅ Completed | 12.02.2026 | 12.02.2026| [DNS System](./notes/05-dns-system.md) |
-| **Browsers and how they work?** | ✅ Completedd | 13.02.2026 | 13.02.2026 | [Browser Internals](./notes/06-browser-internals.md) |
+| **Browsers and how they work?** | ✅ Completed | 13.02.2026 | 13.02.2026 | [Browser Internals](./notes/06-browser-internals.md) |
 
 
 ## 🌐 2. FRONT END BASICS
-**Overall Status:** 🔴 Not Started | **Start:** xx.xx.xx | **Estimated Finish:** xx.xx.xx
+**Overall Status:** 🟡 In Progress | **Start:** 14.02.2026 | **Estimated Finish:** xx.xx.xx
 
 ### 📋 Topic Progress Table
 
 | Topic | Status | Start Date | Finish Date | Notes |
 |-------|--------|------------|-------------|-------|
-| **HTML Fundamentals** | 🔴 Not Started | xx.xx.xx | xx.xx.xx | [HTML Basics](./notes/07-html-basics.md) |
-| **CSS Fundamentals** | 🔴 Not Started | xx.xx.xx | xx.xx.xx | [CSS Basics](./notes/08-css-basics.md) |
+| **HTML Fundamentals** | ✅ Completed | 14.02.2026 | 14.02.2026 | [HTML Basics](./notes/07-html-basics.md) |
+| **CSS Fundamentals** | 🟡 In Progress | 15.02.2026 | xx.xx.xx | [CSS Basics](./notes/08-css-basics.md) |
 | **JavaScript Basics** | 🔴 Not Started | xx.xx.xx | xx.xx.xx | [JavaScript Basics](./notes/09-js-basics.md) |
 
 ## 💻 3. PICK A BACKEND LANGUAGE
