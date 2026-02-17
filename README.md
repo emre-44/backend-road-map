@@ -25,7 +25,7 @@
 | Topic | Status | Start Date | Finish Date | Notes |
 |-------|--------|------------|-------------|-------|
 | **HTML Fundamentals** | ✅ Completed | 14.02.2026 | 14.02.2026 | [HTML Basics](./notes/07-html-basics.md) |
-| **CSS Fundamentals** | 🟡 In Progress | 15.02.2026 | xx.xx.xx | [CSS Basics](./notes/08-css-basics.md) |
+| **CSS Fundamentals** | ✅ Completed  | 15.02.2026 | 17.02.2026 | [CSS Basics](./notes/08-css-basics.md) |
 | **JavaScript Basics** | 🔴 Not Started | xx.xx.xx | xx.xx.xx | [JavaScript Basics](./notes/09-js-basics.md) |
 
 ## 💻 3. PICK A BACKEND LANGUAGE
